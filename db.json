@@ -1,0 +1,287 @@
+{
+  "trades": [
+    {"id":228,"price":"1.2","volume":"39.0","funds":"46.8","market":"eurusd","created_at":"2018-07-26T14:46:53+02:00","side":null},
+    {"id":224,"price":"1.3","volume":"3.0","funds":"3.9","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":223,"price":"1.3","volume":"47.0","funds":"61.1","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":222,"price":"1.3","volume":"3.0","funds":"3.9","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":221,"price":"1.3","volume":"4.0","funds":"5.2","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":220,"price":"1.3","volume":"29.0","funds":"37.7","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":219,"price":"1.3","volume":"8.0","funds":"10.4","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":218,"price":"1.09999999","volume":"42.0","funds":"46.19999958","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":217,"price":"0.99999999","volume":"19.0","funds":"18.99999981","market":"eurusd","created_at":"2018-07-12T13:03:39+02:00","side":null},
+    {"id":216,"price":"0.89999999","volume":"11.0","funds":"9.89999989","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":215,"price":"0.89999999","volume":"4.0","funds":"3.59999996","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":214,"price":"0.89999999","volume":"13.0","funds":"11.69999987","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":213,"price":"0.99999999","volume":"29.0","funds":"28.99999971","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":212,"price":"0.99999999","volume":"6.0","funds":"5.99999994","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":211,"price":"0.99999999","volume":"12.0","funds":"11.99999988","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":210,"price":"0.99999999","volume":"12.0","funds":"11.99999988","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":209,"price":"0.99999999","volume":"6.0","funds":"5.99999994","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":208,"price":"1.09999999","volume":"13.0","funds":"14.29999987","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":207,"price":"1.09999999","volume":"35.0","funds":"38.49999965","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":206,"price":"1.09999999","volume":"20.0","funds":"21.9999998","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":205,"price":"1.09999999","volume":"27.0","funds":"29.69999973","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":204,"price":"1.2","volume":"21.0","funds":"25.2","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":203,"price":"1.09999999","volume":"44.0","funds":"48.39999956","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":202,"price":"1.3","volume":"48.0","funds":"62.4","market":"eurusd","created_at":"2018-07-12T13:03:38+02:00","side":null},
+    {"id":201,"price":"1.3","volume":"32.0","funds":"41.6","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":200,"price":"1.3","volume":"16.0","funds":"20.8","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":199,"price":"1.3","volume":"66.0","funds":"85.8","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":198,"price":"1.3","volume":"2.0","funds":"2.6","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":197,"price":"1.3","volume":"85.0","funds":"110.5","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":196,"price":"0.89999999","volume":"5.0","funds":"4.49999995","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":195,"price":"0.89999999","volume":"49.0","funds":"44.09999951","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":194,"price":"0.89999999","volume":"29.0","funds":"26.09999971","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":193,"price":"0.89999999","volume":"41.0","funds":"36.89999959","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null},
+    {"id":192,"price":"1.3","volume":"4.0","funds":"5.2","market":"eurusd","created_at":"2018-07-12T13:03:37+02:00","side":null}
+  ],
+  "depth": {
+    "timestamp": 1533209893,
+    "asks": [
+      ["1.4","1016.0"],
+      ["1.3","137.0"],
+      ["1.2","44.0"]
+    ],
+    "bids": [
+      ["1.09999999","39.0"],
+      ["0.89999999","101.0"],
+      ["0.79999999","573.0"],
+      ["0.7","793.0"],
+      ["0.6","606.0"],
+      ["0.5","821.0"]
+    ]
+  },
+  "orderbook": {
+    "asks": [
+      {"id":1556,"side":"sell","ord_type":"limit","price":"1.2","avg_price":"1.2","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:52+02:00","volume":"82.0","remaining_volume":"43.0","executed_volume":"39.0","trades_count":1},
+      {"id":1582,"side":"sell","ord_type":"limit","price":"1.2","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-17T16:02:07+02:00","volume":"2.0","remaining_volume":"2.0","executed_volume":"0.0","trades_count":0},
+      {"id":1548,"side":"sell","ord_type":"limit","price":"1.3","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:51+02:00","volume":"48.0","remaining_volume":"48.0","executed_volume":"0.0","trades_count":0},
+      {"id":1544,"side":"sell","ord_type":"limit","price":"1.3","avg_price":"1.3","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:51+02:00","volume":"11.0","remaining_volume":"8.0","executed_volume":"3.0","trades_count":1},
+      {"id":1558,"side":"sell","ord_type":"limit","price":"1.3","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:52+02:00","volume":"81.0","remaining_volume":"81.0","executed_volume":"0.0","trades_count":0},
+      {"id":1251,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:09+02:00","volume":"48.0","remaining_volume":"48.0","executed_volume":"0.0","trades_count":0},
+      {"id":1296,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:10+02:00","volume":"59.0","remaining_volume":"59.0","executed_volume":"0.0","trades_count":0},
+      {"id":1298,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:10+02:00","volume":"23.0","remaining_volume":"23.0","executed_volume":"0.0","trades_count":0},
+      {"id":1324,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"76.0","remaining_volume":"76.0","executed_volume":"0.0","trades_count":0},
+      {"id":1303,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"55.0","remaining_volume":"55.0","executed_volume":"0.0","trades_count":0},
+      {"id":1308,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"80.0","remaining_volume":"80.0","executed_volume":"0.0","trades_count":0},
+      {"id":1306,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"40.0","remaining_volume":"40.0","executed_volume":"0.0","trades_count":0},
+      {"id":1316,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"61.0","remaining_volume":"61.0","executed_volume":"0.0","trades_count":0},
+      {"id":1339,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:12+02:00","volume":"74.0","remaining_volume":"74.0","executed_volume":"0.0","trades_count":0},
+      {"id":1356,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:34+02:00","volume":"60.0","remaining_volume":"60.0","executed_volume":"0.0","trades_count":0},
+      {"id":1392,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"18.0","remaining_volume":"18.0","executed_volume":"0.0","trades_count":0},
+      {"id":1371,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"28.0","remaining_volume":"28.0","executed_volume":"0.0","trades_count":0},
+      {"id":1369,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"55.0","remaining_volume":"55.0","executed_volume":"0.0","trades_count":0},
+      {"id":1391,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"16.0","remaining_volume":"16.0","executed_volume":"0.0","trades_count":0},
+      {"id":1414,"side":"sell","ord_type":"limit","price":"1.4","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:36+02:00","volume":"92.0","remaining_volume":"92.0","executed_volume":"0.0","trades_count":0}
+    ],
+    "bids": [
+      {"id":1552,"side":"buy","ord_type":"limit","price":"1.09999999","avg_price":"1.06885244","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:52+02:00","volume":"89.0","remaining_volume":"28.0","executed_volume":"61.0","trades_count":2},
+      {"id":1554,"side":"buy","ord_type":"limit","price":"1.09999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:52+02:00","volume":"11.0","remaining_volume":"11.0","executed_volume":"0.0","trades_count":0},
+      {"id":1537,"side":"buy","ord_type":"limit","price":"0.89999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:51+02:00","volume":"36.0","remaining_volume":"36.0","executed_volume":"0.0","trades_count":0},
+      {"id":1531,"side":"buy","ord_type":"limit","price":"0.89999999","avg_price":"0.89999999","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:51+02:00","volume":"80.0","remaining_volume":"65.0","executed_volume":"15.0","trades_count":2},
+      {"id":1360,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.79999999","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:34+02:00","volume":"75.0","remaining_volume":"48.0","executed_volume":"27.0","trades_count":1},
+      {"id":1402,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"67.0","remaining_volume":"67.0","executed_volume":"0.0","trades_count":0},
+      {"id":1418,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:36+02:00","volume":"97.0","remaining_volume":"97.0","executed_volume":"0.0","trades_count":0},
+      {"id":1406,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:36+02:00","volume":"31.0","remaining_volume":"31.0","executed_volume":"0.0","trades_count":0},
+      {"id":1425,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:36+02:00","volume":"19.0","remaining_volume":"19.0","executed_volume":"0.0","trades_count":0},
+      {"id":1450,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:37+02:00","volume":"51.0","remaining_volume":"51.0","executed_volume":"0.0","trades_count":0},
+      {"id":1499,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:49+02:00","volume":"88.0","remaining_volume":"88.0","executed_volume":"0.0","trades_count":0},
+      {"id":1490,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:49+02:00","volume":"63.0","remaining_volume":"63.0","executed_volume":"0.0","trades_count":0},
+      {"id":1520,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:50+02:00","volume":"40.0","remaining_volume":"40.0","executed_volume":"0.0","trades_count":0},
+      {"id":1527,"side":"buy","ord_type":"limit","price":"0.79999999","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:59:51+02:00","volume":"69.0","remaining_volume":"69.0","executed_volume":"0.0","trades_count":0},
+      {"id":1299,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.7","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:11+02:00","volume":"75.0","remaining_volume":"10.0","executed_volume":"65.0","trades_count":4},
+      {"id":1349,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:12+02:00","volume":"92.0","remaining_volume":"92.0","executed_volume":"0.0","trades_count":0},
+      {"id":1345,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-10T17:15:12+02:00","volume":"90.0","remaining_volume":"90.0","executed_volume":"0.0","trades_count":0},
+      {"id":1368,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:34+02:00","volume":"18.0","remaining_volume":"18.0","executed_volume":"0.0","trades_count":0},
+      {"id":1384,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"77.0","remaining_volume":"77.0","executed_volume":"0.0","trades_count":0},
+      {"id":1385,"side":"buy","ord_type":"limit","price":"0.7","avg_price":"0.0","state":"wait","market":"eurusd","created_at":"2018-07-12T12:28:35+02:00","volume":"2.0","remaining_volume":"2.0","executed_volume":"0.0","trades_count":0}
+    ]
+  },
+  "k": [
+    [1533208740,1.2,1.2,1.2,1.2,0],
+    [1533208800,1.2,1.2,1.2,1.2,0],
+    [1533208860,1.2,1.2,1.2,1.2,0],
+    [1533208920,1.2,1.2,1.2,1.2,0],
+    [1533208980,1.2,1.2,1.2,1.2,0],
+    [1533209040,1.2,1.2,1.2,1.2,0],
+    [1533209100,1.2,1.2,1.2,1.2,0],
+    [1533209160,1.2,1.2,1.2,1.2,0],
+    [1533209220,1.2,1.2,1.2,1.2,0],
+    [1533209280,1.2,1.2,1.2,1.2,0],
+    [1533209340,1.2,1.2,1.2,1.2,0],
+    [1533209400,1.2,1.2,1.2,1.2,0],
+    [1533209460,1.2,1.2,1.2,1.2,0],
+    [1533209520,1.2,1.2,1.2,1.2,0],
+    [1533209580,1.2,1.2,1.2,1.2,0],
+    [1533209640,1.2,1.2,1.2,1.2,0],
+    [1533209700,1.2,1.2,1.2,1.2,0],
+    [1533209760,1.2,1.2,1.2,1.2,0],
+    [1533209820,1.2,1.2,1.2,1.2,0],
+    [1533209880,1.2,1.2,1.2,1.2,0],
+    [1533209940,1.2,1.2,1.2,1.2,0],
+    [1533210000,1.2,1.2,1.2,1.2,0],
+    [1533210060,1.2,1.2,1.2,1.2,0],
+    [1533210120,1.2,1.2,1.2,1.2,0],
+    [1533210180,1.2,1.2,1.2,1.2,0],
+    [1533210240,1.2,1.2,1.2,1.2,0],
+    [1533210300,1.2,1.2,1.2,1.2,0],
+    [1533210360,1.2,1.2,1.2,1.2,0],
+    [1533210420,1.2,1.2,1.2,1.2,0],
+    [1533210480,1.2,1.2,1.2,1.2,0]
+  ],
+  "fees_trading": [
+    {
+      "market":"btcusd",
+      "ask_fee": {
+        "type":"relative",
+        "value":"0.0015"
+      },
+      "bid_fee": {
+        "type":"relative",
+        "value":"0.0015"
+      }
+    },
+    {
+      "market":"eurusd",
+      "ask_fee": {
+        "type":"relative",
+        "value":"0.0015"
+      },
+      "bid_fee": {
+        "type":"relative",
+        "value":"0.0015"
+      }
+    }
+  ],
+  "fees_deposit": [
+    {
+      "currency":"btc",
+      "type":"coin",
+      "fee": {
+        "type":"fixed",
+        "value":"0.0"
+      }
+    },
+    {
+      "currency":"eur",
+      "type":"fiat",
+      "fee": {
+        "type":"fixed",
+        "value":"0.0"
+      }
+    },
+    {
+      "currency":"usd",
+      "type":"fiat",
+      "fee": {
+        "type":"fixed",
+        "value":"0.0"
+      }
+    }
+  ],
+  "fees_wirthdraw": [
+    {
+      "currency":"btc",
+      "type":"coin",
+      "fee": {
+        "type":"fixed",
+        "value":"0.01"
+      }
+    },
+    {
+      "currency":"eur",
+      "type":"fiat",
+      "fee": {
+        "type":"fixed",
+        "value":"1.0"
+      }
+    },
+    {
+      "currency":"usd",
+      "type":"fiat",
+      "fee": {
+        "type":"fixed",
+        "value":"1.0"
+      }
+    }
+  ],
+  "member_levels": {
+    "deposit": {
+      "minimum_level":1
+    },
+    "withdraw": {
+      "minimum_level":1
+    },
+    "trading": {
+      "minimum_level":1
+    }
+  },
+  "currencies": [
+    {
+      "id":"btc",
+      "symbol":"฿",
+      "type":"coin",
+      "deposit_fee":"0.0",
+      "withdraw_fee":"0.01",
+      "quick_withdraw_limit":"0.1",
+      "deposit_confirmations":1,
+      "base_factor":100000000,
+      "precision":8
+    },
+    {
+      "id":"eur",
+      "symbol":"$",
+      "type":"fiat",
+      "deposit_fee":"0.0",
+      "withdraw_fee":"1.0",
+      "quick_withdraw_limit":"1000.0",
+      "base_factor":1,
+      "precision":2
+    },
+    {
+      "id":"usd",
+      "symbol":"$",
+      "type":"fiat",
+      "deposit_fee":"0.0",
+      "withdraw_fee":"1.0",
+      "quick_withdraw_limit":"1000.0",
+      "base_factor":1,
+      "precision":2
+    }
+  ],
+  "tickers": {
+    "btcusd": {
+      "at":1533211240,
+      "ticker": {
+        "buy":"0.0",
+        "sell":"0.0",
+        "low":"1000.0",
+        "high":"1000.0",
+        "last":"1000.0",
+        "vol":"0.0"
+      }
+    },
+    "ethbtc": {
+      "at":1533211240,
+      "ticker": {
+        "buy":"0.0",
+        "sell":"0.0",
+        "low":"0.02",
+        "high":"0.02",
+        "last":"0.02",
+        "vol":"0.0"
+      }
+    },
+    "usdeth": {
+      "at":1533211240,
+      "ticker": {
+        "buy":"0.0",
+        "sell":"0.0",
+        "low":"0.001",
+        "high":"0.001",
+        "last":"0.001",
+        "vol":"0.0"
+      }
+    }
+  }
+}
